@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kurt%20Carcueva&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%7C%20Mobile%20%7C%20UI%2FUX%20Developer&descSize=18&descAlignY=62" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=50&lines=Full-Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Supabase;AI-first+with+Claude+%26+Gemini;BS+IT+Student+based+in+Cebu%2C+PH" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=50&lines=Full-Stack+%26+Mobile+Developer;React+%7C+React+Native+%7C+Supabase;AI-first+with+Claude+%26+Gemini;Freelance+Developer+based+in+Cebu%2C+PH" alt="Typing SVG" />
 </div>
 
 <br>
@@ -9,9 +9,9 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-I'm a third-year BS Information Technology student at Cebu Institute of Technology – University (graduating 2027).<br>
+I'm a developer based in Cebu, Philippines.<br>
 I design, build, and ship full-stack <strong>web</strong> and <strong>mobile</strong> applications end to end — from UI/UX in Figma to backend, database, and deployment.<br>
-I work AI-first, using <strong>Claude</strong> and <strong>Gemini</strong> in my daily development workflow, and I'm currently open to internships, junior developer roles, and freelance work.
+I work AI-first, using <strong>Claude</strong> and <strong>Gemini</strong> in my daily development workflow, and I'm currently open to <strong>freelance work and remote opportunities</strong>.
 </p>
 
 <br>
